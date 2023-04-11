@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 Ahora este archivo
 esta modificado 
 despues del push.
+=======
+Voy a probar el stash
+>>>>>>> Stashed changes
